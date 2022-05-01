@@ -12,6 +12,6 @@
 <div>master branch conflict</div>
 
 <div>실험 2 브랜치</div>
-<div>충돌</div>
+<div>충돌해결</div>
 </body>
 </html>
