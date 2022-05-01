@@ -4,6 +4,5 @@
 </head>
 <body>
 <h1>hi</hi>
-<h2>3번재커밋</h2>
 </body>
 </html>
